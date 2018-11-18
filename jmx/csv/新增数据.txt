@@ -1,0 +1,33 @@
+﻿T2001N,Test201学院,Master201,Slogan201,----全传正常数据
+T2002N,Test201学院,Master201,,----口号为空
+T2001N,Test201学院,Master201,Slogan201,----dep_id已存在校验
+123 T1,Test201学院,Master201,Slogan201,----id含空格
+,Test201学院,Master201,Slogan201,----id为空
+中文,Test201学院,Master201,Slogan201,----id含中文
+!@we12,Test201学院,Master201,Slogan201,----id含特殊符号
+t1212121212,Test201学院,Master201,Slogan201,----id10位
+t12121212121,Test201学院,Master201,Slogan201,----id11位
+t121345678,Test201学院,Master201,Slogan201,----id9位
+t,Test201学院,Master201,Slogan201,----id1位
+T2005N,,Master201,Slogan201,----dep_name为空
+T2006N,呵呵 学院,Master201,Slogan201,----dep_name含空格
+T2007N,呵呵_学院,Master201,Slogan201,----dep_name含下划线
+T2008N,呵呵-学院,Master201,Slogan201,----dep_name含中划线
+T2009N,呵呵!学院,Master201,Slogan201,----dep_name含中划线
+T2010N,大按键基督教就家世界基督教加建设大街就是,Master201,Slogan201,----dep_name20位
+T2011N,大按键基督教就家世界基督教加建设大街就是的,Master201,Slogan201,----dep_name21位·
+T2011N,大按键基督教就家世界基督教加建设大街就,Master201,Slogan201,----dep_name19位
+T2011N,大,Master201,Slogan201,----dep_name1位
+T2105N,,Master201,Slogan201,----master_name为空
+T2206N,呵呵11,Sloga n201,----master_name含空格
+T2207N,呵呵,呵呵_学院,Slogan201,----master_name含下划线
+T2208N,呵呵,呵呵-学院,Slogan201,----master_name含中划线
+T2309N,呵呵,呵呵!学院,Slogan201,----master_name含其它特殊符号
+T2410N,呵呵,大按键基督教就家世界基督教加建设大街就是,Slogan201,----master_name20位
+T2511N,呵呵,大按键基督教就家世界基督教加建设大街就是的,Slogan201,----master_name21位
+T2611N,呵呵,大按键基督教就家世界基督教加建设大街就,Slogan201,----master_name19位
+T2411N,呵呵,大,Slogan201,----master_name1位
+T211101N,Test201学院,Master201,1111111111222222222211111111112222222222111111111122222222221111111111222222222211111111112222222222,----Slogan100位
+T211101N,Test201学院,Master201,11111111112222222222111111111122222222221111111111222222222211111111112222222222111111111122222222223,----Slogan101位
+T211101N,Test201学院,Master201,111111111122222222221111111111222222222211111111112222222222111111111122222222221111111111222222222,----Slogan99位
+T211101N,Test201学院,Master201,1,----Slogan1位
